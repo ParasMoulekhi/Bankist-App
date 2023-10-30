@@ -1,0 +1,10 @@
+DATA TRANSFORMATION with map,filter,reduce
+
+map --> Looping over arrays and seems like forEach looping array
+main difference is in map return a new array containing results of applying an operation
+
+filter --> filter the given array with some especial conditions
+It returns a new array elements that passed a specific test condition
+
+reduce --> looping over arrays and All arrays elements down to one single value and it has one accumulator and current and their callback function is also different from map and filter
+It also return a new reduced one single value
